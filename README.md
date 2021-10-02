@@ -1,12 +1,13 @@
 # secure-password-generator
 
 Password Generator
-This projects title is Password Generator and it is a website that I coded the javascript for using my new found javascript coding skills so that it follows acceptance criteria.
+The title of this project is "Password Generator" which I coded using javascript which ive been learning the past couple weeks.
 
 Languages
-Used javascript to code the backend of this website.
+HTML,CSS,Javascript
 
-Objective
+Objective:
+
 Make it so when the generate password button is clicked a password a series of prompts appears
 
 When prompts appear, user is able to select which criteria they want including numnbers, special character, and upper/lowercase letters
@@ -17,8 +18,6 @@ When user answers each prompt the answer is validates otherwise it re asks the q
 
 When all prompts are answered then a password is generated for the user on the page
 
-What was learned
-I learned a lot more about how to use eventlisteners as well as various loops in javascript such as do while loops and switch case.
 
 Project pictures/websitelink
 Screenshots below!
